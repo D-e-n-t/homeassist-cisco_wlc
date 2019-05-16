@@ -1,0 +1,10 @@
+{
+  "domain": "cisco_wlc",
+  "name": "Cisco WLC",
+  "documentation": "Ain't None",
+  "requirements": [
+    "pexpect==4.6.0"
+  ],
+  "dependencies": [],
+  "codeowners": ["Dan T"]
+}
