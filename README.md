@@ -20,3 +20,6 @@ device_tracker:
 ```
   
 The default interval of 12 seconds is too fast.  60 seconds seems to work.
+
+To install, just move the cisco_wlc directory into /config/custom_components.
+
